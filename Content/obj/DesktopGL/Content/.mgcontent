@@ -4,9 +4,9 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Digit/Digit/Match3/Content/an-jihun-grass-b.jpg</File>
-    <File>C:/Digit/Digit/Match3/Content/font.spritefont</File>
-    <File>C:/Digit/Digit/Match3/Content/SpriteData.png</File>
+    <File>C:/match3/Content/an-jihun-grass-b.jpg</File>
+    <File>C:/match3/Content/font.spritefont</File>
+    <File>C:/match3/Content/SpriteData.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

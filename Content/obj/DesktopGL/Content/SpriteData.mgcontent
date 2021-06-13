@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Digit/Digit/Match3/Content/SpriteData.png</SourceFile>
-  <SourceTime>2021-06-12T20:44:02.0346354+02:00</SourceTime>
-  <DestFile>C:/Digit/Digit/Match3/Content/bin/DesktopGL/Content/SpriteData.xnb</DestFile>
-  <DestTime>2021-06-13T01:04:34.4139741+02:00</DestTime>
+  <SourceFile>C:/match3/Content/SpriteData.png</SourceFile>
+  <SourceTime>2021-06-13T07:33:53.4312693+02:00</SourceTime>
+  <DestFile>C:/match3/Content/bin/DesktopGL/Content/SpriteData.xnb</DestFile>
+  <DestTime>2021-06-13T07:36:51.3138935+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T16:17:54+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
