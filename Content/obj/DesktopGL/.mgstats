@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Digit/Digit/Digit/Content/an-jihun-grass-b.jpg","C:/Digit/Digit/Digit/Content/bin/DesktopGL/an-jihun-grass-b.xnb","TextureProcessor","Texture2DContent",92384,1048661,0,4175333
+"C:/Digit/Digit/Digit/Content/font.spritefont","C:/Digit/Digit/Digit/Content/bin/DesktopGL/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,37922,0,1982553
+"C:/Digit/Digit/Digit/Content/SpriteData.json","C:\Digit\Digit\Digit\Content\bin\DesktopGL\SpriteData.json","CopyItem","File",3446,3446,0,0024913
+"C:/Digit/Digit/Digit/Content/SpriteData.png","C:/Digit/Digit/Digit/Content/bin/DesktopGL/SpriteData.xnb","TextureProcessor","Texture2DContent",183157,1458773,0,0534426
